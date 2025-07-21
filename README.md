@@ -37,7 +37,7 @@ Version Control: Git & GitHub
 
 🤝 Collaborated with backend developers to ensure smooth and efficient API integration.
 
-Let me know if you'd like a version for LinkedIn, portfolio, or resume formatting!
+
 
 
 
